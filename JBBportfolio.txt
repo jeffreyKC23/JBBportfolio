@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Supply Chain Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            background: #fff;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #444;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+        }
+        .profile-img {
+            display: block;
+            margin: 20px auto;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #333;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            margin-top: 10px;
+            background: #333;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>[Your Name]</h1>
+        <p>Supply Chain Professional | Inventory Planning | Procurement | Logistics</p>
+    </header>
+    
+    <div class="container">
+        <section>
+            <img src="profile.jpg" alt="Profile Picture" class="profile-img">
+            <h2>About Me</h2>
+            <p>With over 15 years of experience in supply chain management, I specialize in **inventory planning & control, procurement, and warehouse operations**. I am dedicated to optimizing processes, ensuring cost-effective purchasing, and maintaining high operational efficiency.</p>
+        </section>
+        
+        <section>
+            <h2>Professional Experience</h2>
+            <h3>Senior Warehouse Officer</h3>
+            <p>- Led warehouse operations, ensuring seamless material storage and distribution.</p>
+            <p>- Managed inventory control and conducted periodic audits to prevent discrepancies.</p>
+            
+            <h3>IPC Head</h3>
+            <p>- Developed and implemented strategies to optimize inventory levels.</p>
+            <p>- Managed procurement processes, ensuring timely and cost-efficient material acquisition.</p>
+            
+            <h3>Senior Analyst – Inventory Planning</h3>
+            <p>- Spearheaded inventory control strategies, monitored stock levels, and coordinated with suppliers.</p>
+            <p>- Assisted in procurement planning and warehouse operations improvements.</p>
+            
+            <h3>MICS Analyst</h3>
+            <p>- Maintained the Materials Inventory Coding System (MICS), ensuring accuracy and efficiency.</p>
+            <p>- Assisted in stock code validation and procurement coordination.</p>
+        </section>
+        
+        <section>
+            <h2>Skills & Expertise</h2>
+            <ul>
+                <li>Inventory Planning & Control</li>
+                <li>Warehouse & Logistics Management</li>
+                <li>Procurement & Supplier Coordination</li>
+                <li>Inventory Analysis & Forecasting</li>
+                <li>Process Optimization & Cost Reduction</li>
+                <li>Team Leadership & Training</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Contact</h2>
+            <p>Email: [Your Email]</p>
+            <p>Phone: [Your Phone Number]</p>
+            <p>LinkedIn: <a href="[Your LinkedIn Profile]" target="_blank" class="btn">View Profile</a></p>
+        </section>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
